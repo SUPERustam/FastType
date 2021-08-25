@@ -1,2 +1,2 @@
 # FastType
-Alternative to basic text editor
+PyQT5 app. Alternative to basic text editor 
